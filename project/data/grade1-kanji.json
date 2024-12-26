@@ -1,0 +1,7 @@
+{
+  "kanji": [
+    {"id": 1, "character": "一", "reading": "イチ", "meaning": "one"},
+    {"id": 2, "character": "右", "reading": "ミギ", "meaning": "right"},
+    {"id": 3, "character": "雨", "reading": "アメ", "meaning": "rain"}
+  ]
+}
